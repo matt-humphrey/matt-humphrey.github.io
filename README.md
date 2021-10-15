@@ -1,3 +1,3 @@
-# Your blog
+# My blog
 
-This is the repository for your blog! Click *_config.yml* above to get started and fill in the details. Then click *index.md* and edit it to start creating your home page.
+A little blog I've put together with the help of FastAI where I plan to publish a few little articles and blog posts.
