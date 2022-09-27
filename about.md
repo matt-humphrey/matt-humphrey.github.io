@@ -1,5 +1,7 @@
 # About
 
-My name is Matt and I like to read, write and play guitar poorly (whether I'm talking specifically about my guitar playing or reading and writing as well is entirely up to your interpretation).
+My name is Matt, and I like to read, write and code.
 
-This is a place for me to collect, process and publish my thoughts. Hope you enjoy!
+I'm currently a novice developer in Elixir and Phoenix, and this blog is a place where I am posting about my journey from zero to (hopefully) hero.
+
+Along the way, I may publish blogs about reflections on life more generally.
